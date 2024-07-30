@@ -1,0 +1,1 @@
+Primeiro você tem que rodar o "Streamlit" - streamlit run "nome do arquivo"
