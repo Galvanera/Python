@@ -1,1 +1,1 @@
-Primeiro você tem que rodar o "Streamlit" - streamlit run "nome do arquivo"
+Este projeto pega todos os dados dos jogos de todos os jogadores da NBA e salva em um arquivo .xlsx separado para cada jogador
